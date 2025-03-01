@@ -1,0 +1,15 @@
+[general]
+name=VectorSelector
+description=Select a one or multiple fields in a vector file filter columns and create a widget.
+about=The VectorSelector plugin adds an icon to the QGIS toolbar. When clicked, it opens a dockable widget that allows users to select a layer, choose an attribute field, and display a list of attribute values as checkboxes. Users can select multiple values to highlight and select corresponding features in the map and automatically zoom to them. This plugin enhances data exploration and feature selection based on attribute values in QGIS.
+version=1.3
+qgisMinimumVersion=3.10
+author=adrian
+email=adrian.poeder@gmail.com
+category=Raster
+license=MIT
+tags=example,plugin,qgis,selected,vector
+repository=https://github.com/adrianredeop/VectorSelector
+homepage=https://github.com/adrianredeop/VectorSelector
+tracker=https://github.com/adrianredeop/VectorSelector/blob/main/issues
+icon=icon.png
